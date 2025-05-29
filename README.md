@@ -1,4 +1,4 @@
-<img width="951" alt="image" src="https://github.com/user-attachments/assets/422301fa-3ef1-482f-8902-9f3aae5c1778" />Learning to See in the Dark – Low-Light Image Denoiser
+Learning to See in the Dark – Low-Light Image Denoiser
 
 This repository contains an implementation of a low-light image denoising and enhancement model based on the seminal work "Learning to See in the Dark" by Chen et al. (CVPR 2018). The model is designed to reconstruct high-quality images from raw sensor data captured in extremely dark environments. The implementation is done in PyTorch.
 
